@@ -1,0 +1,97 @@
+#
+python-dotenv
+
+#beam
+apache-beam==2.62.0
+
+#Data Analytics/ML
+pandas
+numpy
+scikit-learn
+# tensorflow-macos
+keras
+# notebook
+# openai
+# openai[embeddings]
+# openai[wandb]
+# openai[datalib]
+# gensim
+# langchain-core
+# langchain-openai
+
+#GCP
+# gspread
+# gspread_dataframe
+# oauth2client
+# google-api-python-client
+# google-cloud
+# google-cloud-storage
+# google-cloud-bigquery
+# google-cloud-pubsub
+# google-cloud-logging
+# google-cloud-monitoring
+# google-cloud-error-reporting
+# google-cloud-datastore
+# google-cloud-spanner
+# google-cloud-language
+# google-cloud-vision
+# google-cloud-translate
+# google-cloud-speech
+# google-cloud-dlp
+# google-cloud-automl
+# google-cloud-asset
+# google-cloud-tasks
+# google-cloud-iot
+# google-cloud-redis
+# google-cloud-dns
+# google-cloud-logging
+# google-cloud-monitoring
+# google-cloud-error-reporting
+# pandas_gbq
+# google-auth
+# google-cloud-aiplatform
+# bigframes<1.0.0
+# rouge
+# google-generativeai
+
+#snowflake
+# snowflake-connector-python
+
+#Okta
+# okta
+
+#Jira
+# jira
+
+#Git
+# GitPython
+
+#Application
+# flask
+
+#
+# langchain
+# pinecone-client
+# tiktoken
+# openpyxl
+
+#
+# redlines
+# panel
+# jupyter_bokeh
+
+#
+# browser-cookie3
+# PyJWT
+# PyQt5
+# PyQt5-Qt5
+# PyQt5-sip
+# PyQtWebEngine
+# PyQtWebEngine-Qt5
+
+#Flow Login
+# webdriver_manager==4.0.1
+# selenium==4.21.0
+
+#NLP
+# html2text
