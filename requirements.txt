@@ -2,8 +2,9 @@
 python-dotenv
 
 #beam
-apache-beam==2.62.0
+# apache-beam==2.62.0
 # apache-beam
+apache-beam[gcp]
 
 #Data Analytics/ML
 pandas
